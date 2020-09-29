@@ -11,7 +11,7 @@ Follow the steps below to complete the challenge.
 
 4. Palette colors will be provided in the HTML file.
 
-5. If you can set this project up to use SASS that compiles down to CSS.
+5. If you can, set this project up to use SASS that compiles down to CSS.
 
 6. Our project uses the **"Roboto Condensed"** font face weights 100 and 700. _Use whatever method you want to access the font._
 
@@ -21,7 +21,7 @@ Follow the steps below to complete the challenge.
 
 **_Bonus Points_** if you can set this project up to use SASS and have it compile down to CSS.
 
-Feel free to use any packages you prefer but be ready to discuss the tools you used and where you used it. (Because we can learan from you, too)
+Feel free to use any packages you prefer but be ready to discuss the tools you used and where you used it. (Because we can learn from you, too)
 A copy of these instructions can be found in the **index.html** file, as well.
 
 If you have ANY trouble, feel free to open an issue and we will be happy to assist.
