@@ -19,6 +19,8 @@ Follow the steps below to complete the challenge.
 
 8. Use font-awesome where required.
 
+9. On each orange button of the cards, use JS so that the user can click on the button and toggle between the text in the mockup and "Hide [Giving Plan/Charity]" with the icon switched to the eye-slash icon. 
+
 **_Bonus Points_** if you can set this project up to use SASS and have it compile down to CSS.
 
 Feel free to use any packages you prefer but be ready to discuss the tools you used and where you used it. (Because we can learn from you, too)
