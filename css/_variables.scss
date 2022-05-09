@@ -1,0 +1,25 @@
+// ######################################
+// CODING CHALLENGE - VARIABLES CSS                    
+// ######################################
+
+
+
+// #################### COLOR ####################
+$grey-dark: #363636;
+$grey-light: #E2E2E2;
+$red: #c6538c;
+$orange: #FF7946;
+
+
+
+// #################### MIXINS ####################
+@mixin transform($transform) {
+   -webkit-transform: $transform;
+       -ms-transform: $transform;
+           transform: $transform;
+}
+
+
+
+
+
